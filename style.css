@@ -1,0 +1,63 @@
+body{
+    background-color: coral;
+}
+h1{
+    position: fixed;
+    top:50px;
+    color: maroon;
+    font-size: 30px;
+}
+.item{
+    width:auto;
+    height: 255px;
+    border: crimson 2px solid;
+    margin: 20px;
+    padding: 15px;
+}
+.item1{
+    width:auto;
+    height: 150px;
+    border: crimson 2px solid;
+    margin: 20px;
+    padding: 15px;
+}
+.newItem{
+    font-size: 35px;;
+}
+p{
+    color: maroon;
+}
+img{
+    width: 237px;
+    height: 181px;
+}
+.sawa{
+    position: relative;
+    top:-100px;
+    left: 45px;
+}
+.olena{
+    position: relative;
+    top:-110px;
+    left: 155px;
+}
+.igor{
+  position: relative;
+    top:-110px;
+    left: 250px;
+}
+.ira{
+    position: relative;
+    top:-180px;
+    left: 380px; 
+}
+.svitlana{
+    position: relative;
+    top:-220px;
+    left:610px; 
+}
+.oleksij{
+    position: relative;
+    top:-270px;
+    left:540px; 
+}
